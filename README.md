@@ -1,4 +1,8 @@
 ## Hi there, I'm Mostafa Kotb! 👋
+<div align="center">
+  <img src="spiderman-angry.gif" alt="Spiderman">
+</div>
+
 ### About Me
 I am a Computer Science Engineering student at the Egypt-Japan University of Science and Technology (E-JUST). My primary focus is on Deep Learning especially Computer Vision.
 
